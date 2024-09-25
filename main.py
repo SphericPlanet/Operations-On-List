@@ -16,3 +16,11 @@ print("After sorting in asc order:", car_companies)
 
 car_companies.reverse()
 print("After sorting in desc order:", car_companies)
+
+print("Multiply List Elements:",car_companies * 2)
+
+print("Slicing:",car_companies[ :6])
+
+car_companies.clear()
+print("Clearing the list:",car_companies )
+
